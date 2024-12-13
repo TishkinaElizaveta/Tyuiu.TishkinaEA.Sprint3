@@ -14,9 +14,9 @@ namespace Tyuiu.TishkinaEA.Sprint3.Task5.V13.Lib
                     sum += Math.Cos(x);
                 }
             }
-            sum += stopValue2 / 2.0; 
+            sum += (double)stopValue2 / 2.0;
 
-            return sum;
+            return Math.Round(sum, 3);
         }
     }
 }
