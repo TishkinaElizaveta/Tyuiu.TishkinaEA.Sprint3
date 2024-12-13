@@ -14,7 +14,7 @@ namespace Tyuiu.TishkinaEA.Sprint3.Task0.V18.Lib
                 product *= term;
                  
             }
-            return product;
+            return Math.Round(product, 2);
         }
 
     }
