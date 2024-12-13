@@ -12,7 +12,7 @@ namespace Tyuiu.TishkinaEA.Sprint3.Task0.V18.Lib
             {
                 double term = Math.Pow((2 / (Math.Cos(value) + 0.5)), k);
                 product *= term;
-
+                 
             }
             return product;
         }
