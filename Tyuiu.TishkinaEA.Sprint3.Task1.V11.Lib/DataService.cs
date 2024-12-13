@@ -16,7 +16,7 @@ namespace Tyuiu.TishkinaEA.Sprint3.Task1.V11.Lib
                 k++; 
             }
 
-            return product; 
+            return Math.Round(product, 3); 
         }
     }
 }
