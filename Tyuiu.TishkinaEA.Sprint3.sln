@@ -33,6 +33,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TishkinaEA.Sprint3.Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TishkinaEA.Sprint3.Task4.V14.Test", "Tyuiu.TishkinaEA.Sprint3.Task4.V14.Test\Tyuiu.TishkinaEA.Sprint3.Task4.V14.Test.csproj", "{666A28F1-32B6-4589-AAF5-77385E141AE4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TishkinaEA.Sprint3.Task5.V13.Lib", "Tyuiu.TishkinaEA.Sprint3.Task5.V13.Lib\Tyuiu.TishkinaEA.Sprint3.Task5.V13.Lib.csproj", "{4D541C63-AD4E-4D35-9BDE-BB1AFB2892FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TishkinaEA.Sprint3.Task5.V13", "Tyuiu.TishkinaEA.Sprint3.Task5.V13\Tyuiu.TishkinaEA.Sprint3.Task5.V13.csproj", "{FCF529E9-6169-4459-8359-2EC1C6BFB333}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.TishkinaEA.Sprint3.Task5.V13.Test", "Tyuiu.TishkinaEA.Sprint3.Task5.V13.Test\Tyuiu.TishkinaEA.Sprint3.Task5.V13.Test.csproj", "{404BCC5A-0398-4E7B-99B0-1781A3BBE717}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -102,5 +108,17 @@ Global
 		{666A28F1-32B6-4589-AAF5-77385E141AE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{666A28F1-32B6-4589-AAF5-77385E141AE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{666A28F1-32B6-4589-AAF5-77385E141AE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D541C63-AD4E-4D35-9BDE-BB1AFB2892FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D541C63-AD4E-4D35-9BDE-BB1AFB2892FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D541C63-AD4E-4D35-9BDE-BB1AFB2892FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D541C63-AD4E-4D35-9BDE-BB1AFB2892FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCF529E9-6169-4459-8359-2EC1C6BFB333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF529E9-6169-4459-8359-2EC1C6BFB333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF529E9-6169-4459-8359-2EC1C6BFB333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF529E9-6169-4459-8359-2EC1C6BFB333}.Release|Any CPU.Build.0 = Release|Any CPU
+		{404BCC5A-0398-4E7B-99B0-1781A3BBE717}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{404BCC5A-0398-4E7B-99B0-1781A3BBE717}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{404BCC5A-0398-4E7B-99B0-1781A3BBE717}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{404BCC5A-0398-4E7B-99B0-1781A3BBE717}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
